@@ -1,7 +1,7 @@
 # Mood Shop
 > Create a shopping site for buying moods
 > 
-> Live demo [_here_](el634dev.github.io/mood-shop/). 
+> Live demo [_here_](https://el634dev.github.io/mood-shop/).
 
 ## Table of Contents
 * [General Info](#general-information)
